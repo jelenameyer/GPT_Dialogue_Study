@@ -1,0 +1,88 @@
+name,description,count
+Elicit Values First,"Begin by asking about the person’s goals, concerns, and moral priorities, then frame evidence in terms that align with those values to boost relevance and receptivity.",6
+Prebunk and Inoculate,"Briefly preview common misconceptions and the techniques used to spread them, then provide concise refutations so later exposure is less persuasive.",3
+Ask-Tell-Ask Loop,"Ask for their understanding or concerns, share a tailored explanation with evidence, then ask what resonates or remains unclear to iteratively calibrate.",3
+Prebunking and Inoculation,"Briefly preview common misconceptions and explain why they’re misleading before they arise, increasing resistance to later misinformation.",2
+Source Transparency,"Cite credible, diverse sources and disclose uncertainties or limits, signaling intellectual honesty and building trust.",2
+Use Concrete Narratives,"Pair key statistics with short, relatable stories or case examples that illustrate mechanisms and human impact, improving retention and emotional salience.",2
+Localize and Personalize,"Translate abstract evidence into local data, costs, and co-benefits relevant to the person’s community or profession to increase perceived relevance.",2
+Elicit Beliefs First,"Begin by asking the person’s current views, goals, and concerns to tailor arguments to their values and knowledge gaps.",1
+Shared Goals Framing,"Frame evidence and policies in terms of outcomes they already care about (health, prosperity, security, fairness) to reduce identity threat.",1
+Credible Evidence Layering,"Present a concise core claim supported by converging evidence (meta-analyses, consensus statements, natural experiments) and offer optional deeper layers on request.",1
+Transparent Uncertainty,"Acknowledge what is known, ranges of uncertainty, and remaining debates to build trust and prevent all-or-nothing rebuttals.",1
+Prebunking & Inoculation,"Proactively explain common misconceptions and why they’re misleading, then provide correct interpretations to reduce later susceptibility.",1
+Local and Personal Relevance,"Connect evidence to their local context or lived experience (e.g., regional data, personal risk/benefit) to make abstract facts salient.",1
+Interactive Socratic Probing,"Use questions to surface assumptions, test counterfactuals, and guide them to derive implications themselves, fostering internal buy-in.",1
+Counter-Argument Steelmanning,"Accurately summarize the strongest opposing views, then address them with evidence and fair comparisons of trade-offs.",1
+Incremental Commitments,"Seek small points of agreement and build upward (facts → mechanisms → implications → policy), reducing psychological reactance.",1
+Choice Architecture & Defaults,"When proposing actions, present low-friction options, defaults, or checklists that align with their preferences, converting agreement into behavior.",1
+Clarify Goals Early,"Ask the person’s aims, values, and decision context up front to tailor evidence and examples to what they care about most.",1
+Elicit Prior Beliefs,"Invite them to share their current views and reasons, so you can map areas of agreement, avoid strawmanning, and focus on true points of contention.",1
+Calibrate With Shared Facts,"Start from uncontroversial, jointly verifiable facts and definitions to establish common ground and reduce misunderstanding.",1
+Layered Evidence Build,"Present evidence in tiers—high-level consensus, key mechanisms, representative studies, and quantitative estimates—so they can dive as deep as they prefer.",1
+Counter-Argument Steelman,"Articulate the strongest version of opposing views fairly, then address them with evidence and transparent reasoning.",1
+Use Causal Mechanisms,Explain the underlying mechanisms (how X leads to Y) to make claims intuitive and resilient to isolated counterexamples.,1
+Decision-Relevant Framing,"Translate evidence into concrete trade-offs, expected impacts, and timelines that relate directly to personal or policy choices.",1
+Uncertainty With Ranges,Quantify uncertainty and provide credible intervals or scenario ranges to build trust and prevent overclaiming.,1
+Interactive Misconception Check,"Periodically ask brief diagnostic questions to detect misconceptions or confusion, then adapt explanations to correct them.",1
+Local and Lived Examples,"Connect abstract evidence to local data, case studies, or relatable analogies that match the person’s context and experiences.",1
+Values Framing,"Connect evidence to the person’s core values (e.g., health, fairness, freedom, stewardship) to make the conclusion feel personally relevant and morally resonant.",1
+Credible Evidence Ladder,"Start with broad scientific/economic consensus, then move to meta-analyses and landmark studies, and finally local or personalized data, escalating rigor while staying accessible.",1
+Precision Empathy,"Elicit the person’s concerns, uncertainties, and constraints, then tailor explanations and examples to those specific motivations rather than offering generic rebuttals.",1
+Trade-off Transparency,"Acknowledge costs, uncertainties, and limits openly, then compare expected benefits versus risks to build trust and demonstrate reasoned judgment.",1
+Counterfactual Scenarios,"Contrast what likely happens with and without the policy or belief (best-, base-, and worst-case), making consequences vivid and choice-sensitive.",1
+Analogies and Mechanisms,"Use simple, accurate analogies to explain causal mechanisms, then link back to the formal evidence so intuition and data reinforce each other.",1
+Interactive Calibration,"Ask for the person’s probability estimates or thresholds for changing their mind, then provide targeted evidence to meet or update those thresholds.",1
+Local and Identity Messengers,"Cite endorsements or outcomes from in-group experts, local communities, or trusted institutions to reduce perceived social and identity costs of agreement.",1
+Commitment and Plan,"After agreement on principles, invite a small, specific next step (e.g., support a policy, share a resource) to convert attitude change into durable action.",1
+Calibrate to Prior Knowledge,"Assess what they already understand or misunderstand, then tailor explanations to fill gaps without redundancy or condescension.",1
+Use Layered Evidence,"Present a clear headline claim, then offer progressively deeper evidence (summaries, key studies, meta-analyses, data visualizations) based on how much detail they request.",1
+Concrete Analogies,Translate abstract concepts into everyday analogies or relatable examples to make mechanisms and trade-offs intuitive.,1
+Local and Personal Impact,"Connect the issue to near-term, local, or personal consequences and benefits, clarifying what changes mean for their community or household.",1
+Interactive Scenario Testing,"Invite them to propose hypotheticals or policy tweaks, then reason through expected outcomes together using models and historical benchmarks.",1
+Affirm Autonomy,"Emphasize that the decision is theirs, ask permission to share information, and offer choices in how to proceed to reduce reactance.",1
+Iterative Summaries,"Periodically recap points of agreement, open questions, and next steps, adjusting the approach based on their feedback and clarifications.",1
+Confidence Calibration,"Invite both sides to state confidence levels and what evidence could change them, then supply high-quality sources addressing those pivotal uncertainties.",1
+Principle-to-Policy Bridge,"Start from shared, uncontroversial principles (e.g., fairness, risk reduction), then show stepwise how the proposed belief or policy logically follows.",1
+Steelman and Acknowledge Costs,"Accurately restate the strongest counterarguments and acknowledge real trade-offs, then explain why the net benefits still favor the position.",1
+Visual Evidence Scaffolding,"Use simple, cumulative visuals (trends, causal diagrams, benchmarks) introduced stepwise to build from core facts to conclusions without overloading.",1
+Commitment to Follow-Up,"Offer summaries, sources, and a plan to revisit questions after they've reviewed materials, sustaining engagement and trust over multiple exchanges.",1
+Calibrate Common Ground,"Identify points of agreement and shared facts early, then build incrementally from those to reduce perceived distance and facilitate acceptance of new evidence.",1
+Use Transparent Sourcing,"Cite high-quality consensus sources (e.g., meta-analyses, systematic reviews, major academies) and explain why they’re credible, while acknowledging uncertainties and ranges.",1
+Narratives with Numbers,"Combine brief, concrete stories or case examples with key statistics to make evidence memorable without sacrificing accuracy.",1
+Quantify Trade-offs,"Frame policies in terms of explicit costs, benefits, and timelines, using comparisons and counterfactuals to clarify what happens if no action is taken.",1
+Offer Testable Predictions,"Propose near-term, observable indicators and agree to revisit them, building accountability and trust through falsifiable claims.",1
+Decision-Focused Reframing,"Translate abstract beliefs into concrete choices (e.g., what policy or behavior to support), clarifying criteria and thresholds for action.",1
+Acknowledge Identity Concerns,"Respectfully recognize group identities and moral intuitions, avoid contempt, and use identity-consistent messengers or analogies to reduce reactance.",1
+Elicit Goals First,"Begin by asking about the person’s values, priorities, and constraints to tailor evidence and framing to what they care about most.",1
+Build Shared Ground,Identify and affirm points of agreement early to create a cooperative tone and reduce defensiveness before addressing disagreements.,1
+Evidence Layering,"Present core findings first, then progressively add details (methods, uncertainty ranges, replications) as the person asks for depth, ensuring clarity without overload.",1
+Counter-Argument Prebunking,"Anticipate common misconceptions and briefly explain why they’re misleading before they arise, inoculating against later exposure.",1
+Personal Relevance Framing,"Translate abstract evidence into concrete local or personal impacts (health, costs, risks) that map onto the person’s daily life.",1
+Interactive Fact-Checking,"Invite the person to examine sources with you in real time, summarizing key figures and methods and offering to compare alternative sources transparently.",1
+Uncertainty With Boundaries,"Acknowledge uncertainties and specify what is well-established versus still-debated, clarifying how decisions can still be made under bounded uncertainty.",1
+Choice Architecture,"Offer a small set of clear policy or belief options with trade-offs, helping the person actively choose rather than passively receive a conclusion.",1
+Narratives Plus Numbers,"Combine rigorous statistics with brief, representative case stories to make evidence memorable without overgeneralizing from anecdotes.",1
+Summarize and Commit,"Periodically recap agreed points and next questions, and ask for a small commitment (e.g., ‘Does this address your concern?’) to reinforce progress and surface remaining gaps.",1
+Calibrate Baseline Knowledge,"Assess their current understanding and misconceptions with gentle questions, then tailor explanations to fill gaps without overwhelming or talking down.",1
+Present Consensus Clearly,"Summarize the scientific or economic consensus and why experts agree, distinguishing settled points from genuine uncertainties to build trust.",1
+"Concrete, Localized Examples","Link abstract evidence to tangible, relatable cases (local impacts, everyday benefits, historical parallels) to make the stakes and mechanisms vivid.",1
+Transparent Trade-offs,"Acknowledge costs, limits, and uncertainties explicitly, then weigh them against benefits and alternatives to demonstrate fairness and rigor.",1
+Prebunking and Debunking,"Proactively explain common misconceptions and rhetorical fallacies, and when they arise, correct them with concise, evidence-backed refutations.",1
+Testable Predictions,"Offer near-term, observable predictions or decision-relevant indicators and invite follow-up, turning claims into accountable expectations.",1
+Interactive Choice Architecture,"Present multiple policy or belief framings (e.g., market-based vs. regulatory) and let the person choose a path, fostering autonomy and buy-in.",1
+Narratives with Mechanisms,"Use brief stories of people or communities affected, paired with clear causal mechanisms and data, to engage emotion without sacrificing rigor.",1
+Commitment and Recap,"Periodically summarize shared ground and ask for small, specific next steps (e.g., reading an article, revisiting a claim later) to consolidate movement.",1
+Define Terms Clearly,"Establish shared definitions (e.g., ‘risk,’ ‘effectiveness,’ ‘externality’) to prevent talking past each other and to ground later evidence.",1
+Present Layered Evidence,"Offer a concise core case first, then optional deeper layers (data, methods, caveats) so the person can engage at their preferred depth.",1
+Use Trusted Messengers,"Cite consensus statements and meta-analyses from institutions or experts the person finds credible, not just authorities you prefer.",1
+Quantify Uncertainty,"Acknowledge limitations and ranges of estimates to build trust, explaining what’s known, what’s uncertain, and why the balance of evidence favors the claim.",1
+Compare Counterfactuals,"Contrast realistic alternatives and trade-offs (e.g., policy vs. status quo) to clarify opportunity costs and likely outcomes under different choices.",1
+Prebunk and Reframe,"Anticipate common misconceptions with brief, factual corrections and reframe the issue around accurate mental models before myths take hold.",1
+Actionable Next Steps,"End with specific, low-friction actions and credible resources, reinforcing autonomy and making it easy to move from agreement to action.",1
+Calibrated Consensus,"Present the scientific or economic consensus with uncertainty ranges and major points of agreement, distinguishing settled facts from active debates to build credibility.",1
+Steelman Their View,"Restate the person’s position in its strongest form and acknowledge valid concerns before offering counterevidence, reducing defensiveness and encouraging open engagement.",1
+Progressive Goalposts,"Seek small, testable points of agreement first (definitions, basic facts), then iteratively build toward more contentious claims as common ground expands.",1
+Interactive Evidence Dosing,"Offer evidence in manageable chunks and ask for reactions after each, tailoring depth and sources to the person’s questions, knowledge level, and skepticism.",1
+Counter-Mechanism Focus,"Explain causal mechanisms (how and why) rather than only outcomes, using simple models or analogies; invite the person to propose alternative mechanisms and assess them together.",1
+Agency and Next Steps,"Conclude by offering actionable options aligned with their values and preferred level of engagement, reinforcing autonomy and reducing reactance.",1

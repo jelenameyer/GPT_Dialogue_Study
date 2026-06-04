@@ -1,0 +1,1098 @@
+conv_id,strategy,rating
+6,Person-Centered Alignment,Moderate
+6,Establish Shared Foundations,Moderate
+6,Make It Concrete and Local,Moderate
+6,Explain Mechanisms and Analogies,Low
+6,Layered Evidence and Transparent Sourcing,Moderate
+6,Communicate Uncertainty and Trade-offs,Low
+6,Prebunking and Debunking,Low
+6,Steelman and Fair Opposition,Low
+6,"Iterative, Collaborative Dialogue",High
+6,Bridge to Decisions and Commitments,High
+6,Use Trusted Messengers,Low
+7,Person-Centered Alignment,Moderate
+7,Establish Shared Foundations,Moderate
+7,Make It Concrete and Local,Moderate
+7,Explain Mechanisms and Analogies,Low
+7,Layered Evidence and Transparent Sourcing,Low
+7,Communicate Uncertainty and Trade-offs,Low
+7,Prebunking and Debunking,None
+7,Steelman and Fair Opposition,Low
+7,"Iterative, Collaborative Dialogue",High
+7,Bridge to Decisions and Commitments,High
+7,Use Trusted Messengers,Low
+8,Person-Centered Alignment,Moderate
+8,Establish Shared Foundations,Moderate
+8,Make It Concrete and Local,Low
+8,Explain Mechanisms and Analogies,Low
+8,Layered Evidence and Transparent Sourcing,Moderate
+8,Communicate Uncertainty and Trade-offs,Low
+8,Prebunking and Debunking,Low
+8,Steelman and Fair Opposition,Low
+8,"Iterative, Collaborative Dialogue",High
+8,Bridge to Decisions and Commitments,Moderate
+8,Use Trusted Messengers,Low
+9,Person-Centered Alignment,Moderate
+9,Establish Shared Foundations,Moderate
+9,Make It Concrete and Local,Low
+9,Explain Mechanisms and Analogies,Moderate
+9,Layered Evidence and Transparent Sourcing,Low
+9,Communicate Uncertainty and Trade-offs,Low
+9,Prebunking and Debunking,Low
+9,Steelman and Fair Opposition,Low
+9,"Iterative, Collaborative Dialogue",High
+9,Bridge to Decisions and Commitments,Moderate
+9,Use Trusted Messengers,None
+10,Person-Centered Alignment,High
+10,Establish Shared Foundations,Moderate
+10,Make It Concrete and Local,Moderate
+10,Explain Mechanisms and Analogies,Moderate
+10,Layered Evidence and Transparent Sourcing,Moderate
+10,Communicate Uncertainty and Trade-offs,Low
+10,Prebunking and Debunking,Low
+10,Steelman and Fair Opposition,Low
+10,"Iterative, Collaborative Dialogue",High
+10,Bridge to Decisions and Commitments,High
+10,Use Trusted Messengers,Low
+11,Person-Centered Alignment,Moderate
+11,Establish Shared Foundations,Moderate
+11,Make It Concrete and Local,Low
+11,Explain Mechanisms and Analogies,Low
+11,Layered Evidence and Transparent Sourcing,Low
+11,Communicate Uncertainty and Trade-offs,Low
+11,Prebunking and Debunking,None
+11,Steelman and Fair Opposition,Low
+11,"Iterative, Collaborative Dialogue",Moderate
+11,Bridge to Decisions and Commitments,Low
+11,Use Trusted Messengers,Low
+17,Person-Centered Alignment,High
+17,Establish Shared Foundations,High
+17,Make It Concrete and Local,Moderate
+17,Explain Mechanisms and Analogies,Moderate
+17,Layered Evidence and Transparent Sourcing,Moderate
+17,Communicate Uncertainty and Trade-offs,Moderate
+17,Prebunking and Debunking,Low
+17,Steelman and Fair Opposition,Moderate
+17,"Iterative, Collaborative Dialogue",High
+17,Bridge to Decisions and Commitments,Moderate
+17,Use Trusted Messengers,Low
+18,Person-Centered Alignment,High
+18,Establish Shared Foundations,Moderate
+18,Make It Concrete and Local,Low
+18,Explain Mechanisms and Analogies,Moderate
+18,Layered Evidence and Transparent Sourcing,Low
+18,Communicate Uncertainty and Trade-offs,Moderate
+18,Prebunking and Debunking,None
+18,Steelman and Fair Opposition,Low
+18,"Iterative, Collaborative Dialogue",High
+18,Bridge to Decisions and Commitments,High
+18,Use Trusted Messengers,Low
+21,Person-Centered Alignment,Moderate
+21,Establish Shared Foundations,High
+21,Make It Concrete and Local,Moderate
+21,Explain Mechanisms and Analogies,High
+21,Layered Evidence and Transparent Sourcing,High
+21,Communicate Uncertainty and Trade-offs,Moderate
+21,Prebunking and Debunking,Moderate
+21,Steelman and Fair Opposition,Low
+21,"Iterative, Collaborative Dialogue",High
+21,Bridge to Decisions and Commitments,Moderate
+21,Use Trusted Messengers,Moderate
+22,Person-Centered Alignment,Moderate
+22,Establish Shared Foundations,High
+22,Make It Concrete and Local,Low
+22,Explain Mechanisms and Analogies,Moderate
+22,Layered Evidence and Transparent Sourcing,Moderate
+22,Communicate Uncertainty and Trade-offs,Moderate
+22,Prebunking and Debunking,High
+22,Steelman and Fair Opposition,Moderate
+22,"Iterative, Collaborative Dialogue",High
+22,Bridge to Decisions and Commitments,Low
+22,Use Trusted Messengers,Low
+23,Person-Centered Alignment,High
+23,Establish Shared Foundations,High
+23,Make It Concrete and Local,Moderate
+23,Explain Mechanisms and Analogies,Moderate
+23,Layered Evidence and Transparent Sourcing,Moderate
+23,Communicate Uncertainty and Trade-offs,Moderate
+23,Prebunking and Debunking,Low
+23,Steelman and Fair Opposition,Low
+23,"Iterative, Collaborative Dialogue",High
+23,Bridge to Decisions and Commitments,Low
+23,Use Trusted Messengers,Low
+25,Person-Centered Alignment,High
+25,Establish Shared Foundations,Moderate
+25,Make It Concrete and Local,Moderate
+25,Explain Mechanisms and Analogies,Moderate
+25,Layered Evidence and Transparent Sourcing,Low
+25,Communicate Uncertainty and Trade-offs,Low
+25,Prebunking and Debunking,None
+25,Steelman and Fair Opposition,Low
+25,"Iterative, Collaborative Dialogue",High
+25,Bridge to Decisions and Commitments,Moderate
+25,Use Trusted Messengers,Low
+27,Person-Centered Alignment,Moderate
+27,Establish Shared Foundations,Moderate
+27,Make It Concrete and Local,Low
+27,Explain Mechanisms and Analogies,Low
+27,Layered Evidence and Transparent Sourcing,High
+27,Communicate Uncertainty and Trade-offs,Low
+27,Prebunking and Debunking,Low
+27,Steelman and Fair Opposition,Low
+27,"Iterative, Collaborative Dialogue",Moderate
+27,Bridge to Decisions and Commitments,High
+27,Use Trusted Messengers,Moderate
+28,Person-Centered Alignment,Moderate
+28,Establish Shared Foundations,Moderate
+28,Make It Concrete and Local,Low
+28,Explain Mechanisms and Analogies,Moderate
+28,Layered Evidence and Transparent Sourcing,Moderate
+28,Communicate Uncertainty and Trade-offs,Moderate
+28,Prebunking and Debunking,Low
+28,Steelman and Fair Opposition,Moderate
+28,"Iterative, Collaborative Dialogue",High
+28,Bridge to Decisions and Commitments,Low
+28,Use Trusted Messengers,Low
+29,Person-Centered Alignment,Moderate
+29,Establish Shared Foundations,Moderate
+29,Make It Concrete and Local,Low
+29,Explain Mechanisms and Analogies,Low
+29,Layered Evidence and Transparent Sourcing,Moderate
+29,Communicate Uncertainty and Trade-offs,Low
+29,Prebunking and Debunking,Low
+29,Steelman and Fair Opposition,Low
+29,"Iterative, Collaborative Dialogue",Moderate
+29,Bridge to Decisions and Commitments,High
+29,Use Trusted Messengers,Moderate
+30,Person-Centered Alignment,High
+30,Establish Shared Foundations,Moderate
+30,Make It Concrete and Local,Moderate
+30,Explain Mechanisms and Analogies,Moderate
+30,Layered Evidence and Transparent Sourcing,Low
+30,Communicate Uncertainty and Trade-offs,Low
+30,Prebunking and Debunking,Low
+30,Steelman and Fair Opposition,Moderate
+30,"Iterative, Collaborative Dialogue",High
+30,Bridge to Decisions and Commitments,High
+30,Use Trusted Messengers,Low
+32,Person-Centered Alignment,High
+32,Establish Shared Foundations,Moderate
+32,Make It Concrete and Local,Moderate
+32,Explain Mechanisms and Analogies,Low
+32,Layered Evidence and Transparent Sourcing,None
+32,Communicate Uncertainty and Trade-offs,Moderate
+32,Prebunking and Debunking,None
+32,Steelman and Fair Opposition,Low
+32,"Iterative, Collaborative Dialogue",High
+32,Bridge to Decisions and Commitments,Moderate
+32,Use Trusted Messengers,None
+33,Person-Centered Alignment,High
+33,Establish Shared Foundations,Moderate
+33,Make It Concrete and Local,High
+33,Explain Mechanisms and Analogies,Moderate
+33,Layered Evidence and Transparent Sourcing,Low
+33,Communicate Uncertainty and Trade-offs,Low
+33,Prebunking and Debunking,None
+33,Steelman and Fair Opposition,Low
+33,"Iterative, Collaborative Dialogue",High
+33,Bridge to Decisions and Commitments,Moderate
+33,Use Trusted Messengers,Low
+34,Person-Centered Alignment,Moderate
+34,Establish Shared Foundations,Moderate
+34,Make It Concrete and Local,Moderate
+34,Explain Mechanisms and Analogies,Low
+34,Layered Evidence and Transparent Sourcing,Moderate
+34,Communicate Uncertainty and Trade-offs,Low
+34,Prebunking and Debunking,Low
+34,Steelman and Fair Opposition,Low
+34,"Iterative, Collaborative Dialogue",Moderate
+34,Bridge to Decisions and Commitments,Low
+34,Use Trusted Messengers,Low
+36,Person-Centered Alignment,High
+36,Establish Shared Foundations,High
+36,Make It Concrete and Local,Moderate
+36,Explain Mechanisms and Analogies,Moderate
+36,Layered Evidence and Transparent Sourcing,Moderate
+36,Communicate Uncertainty and Trade-offs,Moderate
+36,Prebunking and Debunking,Low
+36,Steelman and Fair Opposition,Moderate
+36,"Iterative, Collaborative Dialogue",High
+36,Bridge to Decisions and Commitments,Moderate
+36,Use Trusted Messengers,Low
+42,Person-Centered Alignment,High
+42,Establish Shared Foundations,Moderate
+42,Make It Concrete and Local,Moderate
+42,Explain Mechanisms and Analogies,Moderate
+42,Layered Evidence and Transparent Sourcing,Low
+42,Communicate Uncertainty and Trade-offs,Moderate
+42,Prebunking and Debunking,None
+42,Steelman and Fair Opposition,Low
+42,"Iterative, Collaborative Dialogue",High
+42,Bridge to Decisions and Commitments,High
+42,Use Trusted Messengers,Low
+48,Person-Centered Alignment,Moderate
+48,Establish Shared Foundations,Moderate
+48,Make It Concrete and Local,Low
+48,Explain Mechanisms and Analogies,Moderate
+48,Layered Evidence and Transparent Sourcing,Low
+48,Communicate Uncertainty and Trade-offs,Moderate
+48,Prebunking and Debunking,Moderate
+48,Steelman and Fair Opposition,High
+48,"Iterative, Collaborative Dialogue",High
+48,Bridge to Decisions and Commitments,Low
+48,Use Trusted Messengers,Low
+58,Person-Centered Alignment,High
+58,Establish Shared Foundations,Moderate
+58,Make It Concrete and Local,Moderate
+58,Explain Mechanisms and Analogies,Low
+58,Layered Evidence and Transparent Sourcing,Low
+58,Communicate Uncertainty and Trade-offs,Low
+58,Prebunking and Debunking,Low
+58,Steelman and Fair Opposition,Moderate
+58,"Iterative, Collaborative Dialogue",High
+58,Bridge to Decisions and Commitments,High
+58,Use Trusted Messengers,Moderate
+59,Person-Centered Alignment,High
+59,Establish Shared Foundations,Moderate
+59,Make It Concrete and Local,Moderate
+59,Explain Mechanisms and Analogies,Low
+59,Layered Evidence and Transparent Sourcing,None
+59,Communicate Uncertainty and Trade-offs,Moderate
+59,Prebunking and Debunking,Low
+59,"Iterative, Collaborative Dialogue",High
+59,Bridge to Decisions and Commitments,High
+59,Use Trusted Messengers,None
+61,Person-Centered Alignment,Moderate
+61,Establish Shared Foundations,Moderate
+61,Make It Concrete and Local,Moderate
+61,Explain Mechanisms and Analogies,Moderate
+61,Layered Evidence and Transparent Sourcing,High
+61,Communicate Uncertainty and Trade-offs,High
+61,Prebunking and Debunking,Low
+61,Steelman and Fair Opposition,Low
+61,"Iterative, Collaborative Dialogue",Moderate
+61,Bridge to Decisions and Commitments,Moderate
+61,Use Trusted Messengers,Moderate
+63,Person-Centered Alignment,Moderate
+63,Establish Shared Foundations,Moderate
+63,Make It Concrete and Local,High
+63,Explain Mechanisms and Analogies,Moderate
+63,Layered Evidence and Transparent Sourcing,Low
+63,Communicate Uncertainty and Trade-offs,Low
+63,Prebunking and Debunking,Low
+63,Steelman and Fair Opposition,Moderate
+63,"Iterative, Collaborative Dialogue",High
+63,Bridge to Decisions and Commitments,Low
+63,Use Trusted Messengers,None
+72,Person-Centered Alignment,High
+72,Establish Shared Foundations,Moderate
+72,Make It Concrete and Local,Low
+72,Explain Mechanisms and Analogies,Moderate
+72,Layered Evidence and Transparent Sourcing,High
+72,Communicate Uncertainty and Trade-offs,Moderate
+72,Prebunking and Debunking,Moderate
+72,Steelman and Fair Opposition,High
+72,"Iterative, Collaborative Dialogue",High
+72,Bridge to Decisions and Commitments,Low
+72,Use Trusted Messengers,Moderate
+74,Person-Centered Alignment,High
+74,Establish Shared Foundations,Moderate
+74,Make It Concrete and Local,Moderate
+74,Explain Mechanisms and Analogies,Moderate
+74,Layered Evidence and Transparent Sourcing,Moderate
+74,Communicate Uncertainty and Trade-offs,Moderate
+74,Prebunking and Debunking,Low
+74,Steelman and Fair Opposition,Moderate
+74,"Iterative, Collaborative Dialogue",High
+74,Bridge to Decisions and Commitments,Moderate
+74,Use Trusted Messengers,Low
+77,Person-Centered Alignment,Moderate
+77,Establish Shared Foundations,Low
+77,Make It Concrete and Local,Moderate
+77,Explain Mechanisms and Analogies,Low
+77,Layered Evidence and Transparent Sourcing,None
+77,Communicate Uncertainty and Trade-offs,Low
+77,Prebunking and Debunking,None
+77,Steelman and Fair Opposition,Low
+77,"Iterative, Collaborative Dialogue",Moderate
+77,Bridge to Decisions and Commitments,Moderate
+77,Use Trusted Messengers,None
+79,Person-Centered Alignment,High
+79,Establish Shared Foundations,High
+79,Make It Concrete and Local,Moderate
+79,Explain Mechanisms and Analogies,Moderate
+79,Layered Evidence and Transparent Sourcing,Moderate
+79,Communicate Uncertainty and Trade-offs,Moderate
+79,Prebunking and Debunking,Low
+79,Steelman and Fair Opposition,High
+79,"Iterative, Collaborative Dialogue",High
+79,Bridge to Decisions and Commitments,Moderate
+79,Use Trusted Messengers,Low
+80,Person-Centered Alignment,High
+80,Establish Shared Foundations,Low
+80,Make It Concrete and Local,High
+80,Explain Mechanisms and Analogies,Low
+80,Layered Evidence and Transparent Sourcing,None
+80,Communicate Uncertainty and Trade-offs,Moderate
+80,Prebunking and Debunking,None
+80,Steelman and Fair Opposition,Low
+80,"Iterative, Collaborative Dialogue",High
+80,Bridge to Decisions and Commitments,Moderate
+80,Use Trusted Messengers,None
+81,Person-Centered Alignment,High
+81,Establish Shared Foundations,High
+81,Make It Concrete and Local,Moderate
+81,Explain Mechanisms and Analogies,Moderate
+81,Layered Evidence and Transparent Sourcing,Moderate
+81,Communicate Uncertainty and Trade-offs,Moderate
+81,Prebunking and Debunking,Low
+81,Steelman and Fair Opposition,Moderate
+81,"Iterative, Collaborative Dialogue",High
+81,Bridge to Decisions and Commitments,Moderate
+81,Use Trusted Messengers,Low
+83,Person-Centered Alignment,High
+83,Establish Shared Foundations,Moderate
+83,Make It Concrete and Local,Low
+83,Explain Mechanisms and Analogies,Moderate
+83,Layered Evidence and Transparent Sourcing,Moderate
+83,Communicate Uncertainty and Trade-offs,High
+83,Prebunking and Debunking,Moderate
+83,Steelman and Fair Opposition,Moderate
+83,"Iterative, Collaborative Dialogue",High
+83,Bridge to Decisions and Commitments,Moderate
+83,Use Trusted Messengers,Low
+85,Person-Centered Alignment,High
+85,Establish Shared Foundations,Moderate
+85,Make It Concrete and Local,Moderate
+85,Explain Mechanisms and Analogies,Moderate
+85,Layered Evidence and Transparent Sourcing,Moderate
+85,Communicate Uncertainty and Trade-offs,Low
+85,Prebunking and Debunking,Low
+85,Steelman and Fair Opposition,Moderate
+85,"Iterative, Collaborative Dialogue",High
+85,Bridge to Decisions and Commitments,Moderate
+85,Use Trusted Messengers,Low
+86,Person-Centered Alignment,Moderate
+86,Establish Shared Foundations,Moderate
+86,Make It Concrete and Local,Moderate
+86,Explain Mechanisms and Analogies,Moderate
+86,Layered Evidence and Transparent Sourcing,Low
+86,Communicate Uncertainty and Trade-offs,Low
+86,Prebunking and Debunking,None
+86,Steelman and Fair Opposition,Low
+86,"Iterative, Collaborative Dialogue",High
+86,Bridge to Decisions and Commitments,Moderate
+86,Use Trusted Messengers,None
+91,Person-Centered Alignment,Moderate
+91,Establish Shared Foundations,Moderate
+91,Make It Concrete and Local,Low
+91,Explain Mechanisms and Analogies,Moderate
+91,Layered Evidence and Transparent Sourcing,High
+91,Communicate Uncertainty and Trade-offs,Moderate
+91,Prebunking and Debunking,Moderate
+91,Steelman and Fair Opposition,Moderate
+91,"Iterative, Collaborative Dialogue",High
+91,Bridge to Decisions and Commitments,Low
+91,Use Trusted Messengers,Moderate
+93,Person-Centered Alignment,High
+93,Establish Shared Foundations,Low
+93,Make It Concrete and Local,Moderate
+93,Explain Mechanisms and Analogies,Low
+93,Layered Evidence and Transparent Sourcing,None
+93,Communicate Uncertainty and Trade-offs,Low
+93,Prebunking and Debunking,None
+93,Steelman and Fair Opposition,Low
+93,"Iterative, Collaborative Dialogue",Moderate
+93,Bridge to Decisions and Commitments,Moderate
+93,Use Trusted Messengers,None
+94,Person-Centered Alignment,High
+94,Establish Shared Foundations,Moderate
+94,Make It Concrete and Local,Moderate
+94,Explain Mechanisms and Analogies,Moderate
+94,Layered Evidence and Transparent Sourcing,Moderate
+94,Communicate Uncertainty and Trade-offs,Low
+94,Prebunking and Debunking,Moderate
+94,Steelman and Fair Opposition,Moderate
+94,"Iterative, Collaborative Dialogue",High
+94,Bridge to Decisions and Commitments,Moderate
+94,Use Trusted Messengers,Low
+98,Person-Centered Alignment,High
+98,Establish Shared Foundations,High
+98,Make It Concrete and Local,Moderate
+98,Explain Mechanisms and Analogies,Moderate
+98,Layered Evidence and Transparent Sourcing,Moderate
+98,Communicate Uncertainty and Trade-offs,Moderate
+98,Prebunking and Debunking,Low
+98,Steelman and Fair Opposition,Low
+98,"Iterative, Collaborative Dialogue",High
+98,Bridge to Decisions and Commitments,Moderate
+98,Use Trusted Messengers,Moderate
+101,Person-Centered Alignment,High
+101,Establish Shared Foundations,Moderate
+101,Make It Concrete and Local,Low
+101,Explain Mechanisms and Analogies,Low
+101,Layered Evidence and Transparent Sourcing,Moderate
+101,Communicate Uncertainty and Trade-offs,Low
+101,Prebunking and Debunking,Low
+101,Steelman and Fair Opposition,Moderate
+101,"Iterative, Collaborative Dialogue",High
+101,Bridge to Decisions and Commitments,Moderate
+101,Use Trusted Messengers,Low
+104,Person-Centered Alignment,High
+104,Establish Shared Foundations,Moderate
+104,Make It Concrete and Local,Moderate
+104,Explain Mechanisms and Analogies,Moderate
+104,Layered Evidence and Transparent Sourcing,Moderate
+104,Communicate Uncertainty and Trade-offs,Low
+104,Prebunking and Debunking,Moderate
+104,Steelman and Fair Opposition,Low
+104,"Iterative, Collaborative Dialogue",High
+104,Bridge to Decisions and Commitments,High
+104,Use Trusted Messengers,Moderate
+106,Person-Centered Alignment,Moderate
+106,Establish Shared Foundations,Moderate
+106,Make It Concrete and Local,Low
+106,Explain Mechanisms and Analogies,Low
+106,Layered Evidence and Transparent Sourcing,Low
+106,Communicate Uncertainty and Trade-offs,Low
+106,Prebunking and Debunking,None
+106,Steelman and Fair Opposition,Low
+106,"Iterative, Collaborative Dialogue",High
+106,Bridge to Decisions and Commitments,Moderate
+106,Use Trusted Messengers,None
+115,Person-Centered Alignment,Moderate
+115,Establish Shared Foundations,Moderate
+115,Make It Concrete and Local,Moderate
+115,Explain Mechanisms and Analogies,Low
+115,Layered Evidence and Transparent Sourcing,Low
+115,Communicate Uncertainty and Trade-offs,Low
+115,Prebunking and Debunking,Low
+115,Steelman and Fair Opposition,Low
+115,"Iterative, Collaborative Dialogue",Moderate
+115,Bridge to Decisions and Commitments,High
+115,Use Trusted Messengers,Low
+117,Person-Centered Alignment,Moderate
+117,Establish Shared Foundations,High
+117,Make It Concrete and Local,Moderate
+117,Explain Mechanisms and Analogies,Low
+117,Layered Evidence and Transparent Sourcing,Moderate
+117,Communicate Uncertainty and Trade-offs,Moderate
+117,Prebunking and Debunking,Low
+117,Steelman and Fair Opposition,Moderate
+117,"Iterative, Collaborative Dialogue",High
+117,Bridge to Decisions and Commitments,Moderate
+117,Use Trusted Messengers,Low
+118,Person-Centered Alignment,High
+118,Establish Shared Foundations,Moderate
+118,Make It Concrete and Local,Moderate
+118,Explain Mechanisms and Analogies,Moderate
+118,Layered Evidence and Transparent Sourcing,Low
+118,Communicate Uncertainty and Trade-offs,Moderate
+118,Prebunking and Debunking,Low
+118,Steelman and Fair Opposition,Moderate
+118,"Iterative, Collaborative Dialogue",High
+118,Bridge to Decisions and Commitments,Low
+118,Use Trusted Messengers,Low
+120,Person-Centered Alignment,High
+120,Establish Shared Foundations,High
+120,Make It Concrete and Local,Moderate
+120,Explain Mechanisms and Analogies,Moderate
+120,Layered Evidence and Transparent Sourcing,Moderate
+120,Communicate Uncertainty and Trade-offs,Moderate
+120,Prebunking and Debunking,Low
+120,Steelman and Fair Opposition,Moderate
+120,"Iterative, Collaborative Dialogue",High
+120,Bridge to Decisions and Commitments,High
+120,Use Trusted Messengers,Low
+122,Person-Centered Alignment,Moderate
+122,Establish Shared Foundations,High
+122,Make It Concrete and Local,Low
+122,Explain Mechanisms and Analogies,Moderate
+122,Layered Evidence and Transparent Sourcing,Moderate
+122,Communicate Uncertainty and Trade-offs,Moderate
+122,Prebunking and Debunking,Moderate
+122,Steelman and Fair Opposition,Low
+122,"Iterative, Collaborative Dialogue",Moderate
+122,Bridge to Decisions and Commitments,Moderate
+122,Use Trusted Messengers,Low
+126,Person-Centered Alignment,High
+126,Establish Shared Foundations,Moderate
+126,Make It Concrete and Local,Low
+126,Explain Mechanisms and Analogies,Low
+126,Layered Evidence and Transparent Sourcing,Low
+126,Communicate Uncertainty and Trade-offs,Low
+126,Prebunking and Debunking,Low
+126,Steelman and Fair Opposition,Low
+126,"Iterative, Collaborative Dialogue",High
+126,Bridge to Decisions and Commitments,Low
+126,Use Trusted Messengers,Low
+128,Person-Centered Alignment,Moderate
+128,Establish Shared Foundations,Moderate
+128,Make It Concrete and Local,Low
+128,Explain Mechanisms and Analogies,Moderate
+128,Layered Evidence and Transparent Sourcing,High
+128,Communicate Uncertainty and Trade-offs,Moderate
+128,Prebunking and Debunking,Low
+128,Steelman and Fair Opposition,Low
+128,"Iterative, Collaborative Dialogue",Moderate
+128,Bridge to Decisions and Commitments,Low
+128,Use Trusted Messengers,Moderate
+129,Person-Centered Alignment,Moderate
+129,Establish Shared Foundations,Moderate
+129,Make It Concrete and Local,Low
+129,Explain Mechanisms and Analogies,Moderate
+129,Layered Evidence and Transparent Sourcing,Low
+129,Communicate Uncertainty and Trade-offs,Low
+129,Prebunking and Debunking,Low
+129,Steelman and Fair Opposition,Moderate
+129,"Iterative, Collaborative Dialogue",Moderate
+129,Bridge to Decisions and Commitments,Low
+129,Use Trusted Messengers,Low
+130,Person-Centered Alignment,High
+130,Establish Shared Foundations,Moderate
+130,Make It Concrete and Local,Moderate
+130,Explain Mechanisms and Analogies,Moderate
+130,Layered Evidence and Transparent Sourcing,Low
+130,Communicate Uncertainty and Trade-offs,Low
+130,Prebunking and Debunking,Low
+130,Steelman and Fair Opposition,Moderate
+130,"Iterative, Collaborative Dialogue",High
+130,Bridge to Decisions and Commitments,Moderate
+130,Use Trusted Messengers,Low
+131,Person-Centered Alignment,Moderate
+131,Establish Shared Foundations,High
+131,Make It Concrete and Local,High
+131,Explain Mechanisms and Analogies,Moderate
+131,Layered Evidence and Transparent Sourcing,Moderate
+131,Communicate Uncertainty and Trade-offs,High
+131,Prebunking and Debunking,Low
+131,Steelman and Fair Opposition,Low
+131,"Iterative, Collaborative Dialogue",High
+131,Bridge to Decisions and Commitments,Moderate
+131,Use Trusted Messengers,Moderate
+132,Person-Centered Alignment,Moderate
+132,Establish Shared Foundations,Moderate
+132,Make It Concrete and Local,Low
+132,Explain Mechanisms and Analogies,Moderate
+132,Layered Evidence and Transparent Sourcing,Low
+132,Communicate Uncertainty and Trade-offs,Moderate
+132,Prebunking and Debunking,Moderate
+132,Steelman and Fair Opposition,High
+132,"Iterative, Collaborative Dialogue",High
+132,Bridge to Decisions and Commitments,Moderate
+132,Use Trusted Messengers,Low
+134,Person-Centered Alignment,Moderate
+134,Establish Shared Foundations,High
+134,Make It Concrete and Local,Moderate
+134,Explain Mechanisms and Analogies,Low
+134,Layered Evidence and Transparent Sourcing,Low
+134,Communicate Uncertainty and Trade-offs,Low
+134,Prebunking and Debunking,Low
+134,Steelman and Fair Opposition,Low
+134,"Iterative, Collaborative Dialogue",High
+134,Bridge to Decisions and Commitments,High
+134,Use Trusted Messengers,Low
+136,Person-Centered Alignment,High
+136,Establish Shared Foundations,Moderate
+136,Make It Concrete and Local,Low
+136,Explain Mechanisms and Analogies,Low
+136,Layered Evidence and Transparent Sourcing,Moderate
+136,Communicate Uncertainty and Trade-offs,Low
+136,Prebunking and Debunking,Low
+136,Steelman and Fair Opposition,Moderate
+136,"Iterative, Collaborative Dialogue",High
+136,Bridge to Decisions and Commitments,Moderate
+136,Use Trusted Messengers,Low
+137,Person-Centered Alignment,Moderate
+137,Establish Shared Foundations,High
+137,Make It Concrete and Local,Moderate
+137,Explain Mechanisms and Analogies,Low
+137,Layered Evidence and Transparent Sourcing,Moderate
+137,Communicate Uncertainty and Trade-offs,Low
+137,Prebunking and Debunking,Low
+137,Steelman and Fair Opposition,Low
+137,"Iterative, Collaborative Dialogue",High
+137,Bridge to Decisions and Commitments,High
+137,Use Trusted Messengers,Moderate
+138,Person-Centered Alignment,High
+138,Establish Shared Foundations,Moderate
+138,Make It Concrete and Local,Low
+138,Explain Mechanisms and Analogies,Moderate
+138,Layered Evidence and Transparent Sourcing,Moderate
+138,Communicate Uncertainty and Trade-offs,Moderate
+138,Prebunking and Debunking,Low
+138,Steelman and Fair Opposition,Low
+138,"Iterative, Collaborative Dialogue",High
+138,Bridge to Decisions and Commitments,Moderate
+138,Use Trusted Messengers,Low
+140,Person-Centered Alignment,High
+140,Establish Shared Foundations,Moderate
+140,Make It Concrete and Local,Moderate
+140,Explain Mechanisms and Analogies,Moderate
+140,Layered Evidence and Transparent Sourcing,Low
+140,Communicate Uncertainty and Trade-offs,Low
+140,Prebunking and Debunking,Moderate
+140,Steelman and Fair Opposition,High
+140,"Iterative, Collaborative Dialogue",High
+140,Bridge to Decisions and Commitments,High
+140,Use Trusted Messengers,None
+142,Person-Centered Alignment,Moderate
+142,Establish Shared Foundations,High
+142,Make It Concrete and Local,Moderate
+142,Explain Mechanisms and Analogies,Moderate
+142,Layered Evidence and Transparent Sourcing,High
+142,Communicate Uncertainty and Trade-offs,Moderate
+142,Prebunking and Debunking,Low
+142,Steelman and Fair Opposition,Moderate
+142,"Iterative, Collaborative Dialogue",High
+142,Bridge to Decisions and Commitments,Moderate
+142,Use Trusted Messengers,Moderate
+143,Person-Centered Alignment,High
+143,Establish Shared Foundations,Moderate
+143,Make It Concrete and Local,Moderate
+143,Explain Mechanisms and Analogies,Low
+143,Layered Evidence and Transparent Sourcing,Low
+143,Communicate Uncertainty and Trade-offs,Moderate
+143,Prebunking and Debunking,None
+143,Steelman and Fair Opposition,Low
+143,"Iterative, Collaborative Dialogue",High
+143,Bridge to Decisions and Commitments,Moderate
+143,Use Trusted Messengers,None
+144,Person-Centered Alignment,High
+144,Establish Shared Foundations,High
+144,Make It Concrete and Local,Moderate
+144,Explain Mechanisms and Analogies,High
+144,Layered Evidence and Transparent Sourcing,Moderate
+144,Communicate Uncertainty and Trade-offs,Moderate
+144,Prebunking and Debunking,Low
+144,Steelman and Fair Opposition,Moderate
+144,"Iterative, Collaborative Dialogue",High
+144,Bridge to Decisions and Commitments,Moderate
+144,Use Trusted Messengers,Low
+145,Person-Centered Alignment,Moderate
+145,Establish Shared Foundations,Moderate
+145,Make It Concrete and Local,Moderate
+145,Explain Mechanisms and Analogies,Low
+145,Layered Evidence and Transparent Sourcing,Low
+145,Communicate Uncertainty and Trade-offs,Low
+145,Prebunking and Debunking,Low
+145,Steelman and Fair Opposition,Low
+145,"Iterative, Collaborative Dialogue",Moderate
+145,Bridge to Decisions and Commitments,Moderate
+145,Use Trusted Messengers,Low
+148,Person-Centered Alignment,High
+148,Establish Shared Foundations,Moderate
+148,Make It Concrete and Local,Low
+148,Explain Mechanisms and Analogies,Low
+148,Layered Evidence and Transparent Sourcing,Moderate
+148,Communicate Uncertainty and Trade-offs,High
+148,Prebunking and Debunking,Low
+148,Steelman and Fair Opposition,High
+148,"Iterative, Collaborative Dialogue",High
+148,Bridge to Decisions and Commitments,Moderate
+148,Use Trusted Messengers,Moderate
+152,Person-Centered Alignment,Moderate
+152,Establish Shared Foundations,Moderate
+152,Make It Concrete and Local,Low
+152,Explain Mechanisms and Analogies,Moderate
+152,Layered Evidence and Transparent Sourcing,Low
+152,Communicate Uncertainty and Trade-offs,Low
+152,Prebunking and Debunking,Low
+152,Steelman and Fair Opposition,Moderate
+152,"Iterative, Collaborative Dialogue",High
+152,Bridge to Decisions and Commitments,Moderate
+152,Use Trusted Messengers,None
+153,Person-Centered Alignment,High
+153,Establish Shared Foundations,Moderate
+153,Make It Concrete and Local,Low
+153,Explain Mechanisms and Analogies,Moderate
+153,Layered Evidence and Transparent Sourcing,Moderate
+153,Communicate Uncertainty and Trade-offs,Moderate
+153,Prebunking and Debunking,Low
+153,Steelman and Fair Opposition,High
+153,"Iterative, Collaborative Dialogue",High
+153,Bridge to Decisions and Commitments,Moderate
+153,Use Trusted Messengers,Low
+158,Person-Centered Alignment,Moderate
+158,Establish Shared Foundations,Low
+158,Make It Concrete and Local,High
+158,Explain Mechanisms and Analogies,Low
+158,Layered Evidence and Transparent Sourcing,None
+158,Communicate Uncertainty and Trade-offs,Moderate
+158,Prebunking and Debunking,None
+158,Steelman and Fair Opposition,Low
+158,"Iterative, Collaborative Dialogue",Moderate
+158,Bridge to Decisions and Commitments,Low
+158,Use Trusted Messengers,None
+160,Person-Centered Alignment,Moderate
+160,Establish Shared Foundations,High
+160,Make It Concrete and Local,Moderate
+160,Explain Mechanisms and Analogies,Moderate
+160,Layered Evidence and Transparent Sourcing,Moderate
+160,Communicate Uncertainty and Trade-offs,Moderate
+160,Prebunking and Debunking,Low
+160,Steelman and Fair Opposition,Moderate
+160,"Iterative, Collaborative Dialogue",High
+160,Bridge to Decisions and Commitments,Low
+160,Use Trusted Messengers,Low
+164,Person-Centered Alignment,Moderate
+164,Establish Shared Foundations,Moderate
+164,Make It Concrete and Local,Low
+164,Explain Mechanisms and Analogies,Moderate
+164,Layered Evidence and Transparent Sourcing,Low
+164,Communicate Uncertainty and Trade-offs,Low
+164,Prebunking and Debunking,Low
+164,Steelman and Fair Opposition,Moderate
+164,"Iterative, Collaborative Dialogue",High
+164,Bridge to Decisions and Commitments,Moderate
+164,Use Trusted Messengers,None
+166,Person-Centered Alignment,High
+166,Establish Shared Foundations,Moderate
+166,Make It Concrete and Local,Moderate
+166,Explain Mechanisms and Analogies,Moderate
+166,Layered Evidence and Transparent Sourcing,Moderate
+166,Communicate Uncertainty and Trade-offs,Low
+166,Prebunking and Debunking,None
+166,"Iterative, Collaborative Dialogue",High
+166,Bridge to Decisions and Commitments,Moderate
+166,Use Trusted Messengers,None
+167,Person-Centered Alignment,High
+167,Establish Shared Foundations,Moderate
+167,Make It Concrete and Local,Moderate
+167,Explain Mechanisms and Analogies,Low
+167,Layered Evidence and Transparent Sourcing,Low
+167,Communicate Uncertainty and Trade-offs,Low
+167,Prebunking and Debunking,Low
+167,Steelman and Fair Opposition,Low
+167,"Iterative, Collaborative Dialogue",High
+167,Bridge to Decisions and Commitments,High
+167,Use Trusted Messengers,None
+168,Person-Centered Alignment,Low
+168,Establish Shared Foundations,Moderate
+168,Make It Concrete and Local,Low
+168,Explain Mechanisms and Analogies,Low
+168,Layered Evidence and Transparent Sourcing,Moderate
+168,Communicate Uncertainty and Trade-offs,Low
+168,Prebunking and Debunking,Low
+168,Steelman and Fair Opposition,Low
+168,"Iterative, Collaborative Dialogue",Moderate
+168,Bridge to Decisions and Commitments,Low
+168,Use Trusted Messengers,Low
+169,Person-Centered Alignment,Moderate
+169,Establish Shared Foundations,Moderate
+169,Make It Concrete and Local,Low
+169,Explain Mechanisms and Analogies,Low
+169,Layered Evidence and Transparent Sourcing,Moderate
+169,Communicate Uncertainty and Trade-offs,Moderate
+169,Prebunking and Debunking,Low
+169,Steelman and Fair Opposition,Low
+169,"Iterative, Collaborative Dialogue",High
+169,Bridge to Decisions and Commitments,Low
+169,Use Trusted Messengers,Low
+171,Person-Centered Alignment,High
+171,Establish Shared Foundations,Moderate
+171,Make It Concrete and Local,Moderate
+171,Explain Mechanisms and Analogies,Low
+171,Layered Evidence and Transparent Sourcing,Moderate
+171,Communicate Uncertainty and Trade-offs,Low
+171,Prebunking and Debunking,Low
+171,Steelman and Fair Opposition,Moderate
+171,"Iterative, Collaborative Dialogue",High
+171,Bridge to Decisions and Commitments,Moderate
+171,Use Trusted Messengers,Low
+174,Person-Centered Alignment,High
+174,Establish Shared Foundations,Moderate
+174,Make It Concrete and Local,Moderate
+174,Explain Mechanisms and Analogies,Low
+174,Layered Evidence and Transparent Sourcing,None
+174,Communicate Uncertainty and Trade-offs,Moderate
+174,Prebunking and Debunking,None
+174,Steelman and Fair Opposition,Low
+174,"Iterative, Collaborative Dialogue",High
+174,Bridge to Decisions and Commitments,Moderate
+174,Use Trusted Messengers,None
+175,Person-Centered Alignment,High
+175,Establish Shared Foundations,Moderate
+175,Make It Concrete and Local,Low
+175,Explain Mechanisms and Analogies,Moderate
+175,Layered Evidence and Transparent Sourcing,Moderate
+175,Communicate Uncertainty and Trade-offs,Moderate
+175,Prebunking and Debunking,High
+175,Steelman and Fair Opposition,Moderate
+175,"Iterative, Collaborative Dialogue",High
+175,Bridge to Decisions and Commitments,Low
+175,Use Trusted Messengers,Low
+178,Person-Centered Alignment,Moderate
+178,Establish Shared Foundations,Low
+178,Make It Concrete and Local,High
+178,Explain Mechanisms and Analogies,High
+178,Layered Evidence and Transparent Sourcing,Low
+178,Communicate Uncertainty and Trade-offs,Low
+178,Prebunking and Debunking,Low
+178,Steelman and Fair Opposition,Low
+178,"Iterative, Collaborative Dialogue",Moderate
+178,Bridge to Decisions and Commitments,Low
+178,Use Trusted Messengers,Low
+182,Person-Centered Alignment,Moderate
+182,Establish Shared Foundations,Moderate
+182,Make It Concrete and Local,Low
+182,Explain Mechanisms and Analogies,Moderate
+182,Layered Evidence and Transparent Sourcing,Moderate
+182,Communicate Uncertainty and Trade-offs,Low
+182,Prebunking and Debunking,Low
+182,Steelman and Fair Opposition,Moderate
+182,"Iterative, Collaborative Dialogue",High
+182,Bridge to Decisions and Commitments,Moderate
+182,Use Trusted Messengers,Low
+183,Person-Centered Alignment,High
+183,Establish Shared Foundations,Moderate
+183,Make It Concrete and Local,Low
+183,Explain Mechanisms and Analogies,High
+183,Layered Evidence and Transparent Sourcing,Moderate
+183,Communicate Uncertainty and Trade-offs,Low
+183,Prebunking and Debunking,Low
+183,Steelman and Fair Opposition,Moderate
+183,"Iterative, Collaborative Dialogue",High
+183,Bridge to Decisions and Commitments,Low
+183,Use Trusted Messengers,Low
+188,Person-Centered Alignment,High
+188,Establish Shared Foundations,Moderate
+188,Make It Concrete and Local,Moderate
+188,Explain Mechanisms and Analogies,Moderate
+188,Layered Evidence and Transparent Sourcing,Moderate
+188,Communicate Uncertainty and Trade-offs,Low
+188,Prebunking and Debunking,Low
+188,Steelman and Fair Opposition,Moderate
+188,"Iterative, Collaborative Dialogue",High
+188,Bridge to Decisions and Commitments,Moderate
+188,Use Trusted Messengers,Low
+189,Person-Centered Alignment,Moderate
+189,Establish Shared Foundations,Moderate
+189,Make It Concrete and Local,Low
+189,Explain Mechanisms and Analogies,Moderate
+189,Layered Evidence and Transparent Sourcing,Low
+189,Communicate Uncertainty and Trade-offs,Moderate
+189,Prebunking and Debunking,Low
+189,Steelman and Fair Opposition,Moderate
+189,"Iterative, Collaborative Dialogue",High
+189,Bridge to Decisions and Commitments,Moderate
+189,Use Trusted Messengers,None
+192,Person-Centered Alignment,Moderate
+192,Establish Shared Foundations,High
+192,Make It Concrete and Local,Moderate
+192,Explain Mechanisms and Analogies,Low
+192,Layered Evidence and Transparent Sourcing,Moderate
+192,Communicate Uncertainty and Trade-offs,Low
+192,Prebunking and Debunking,Low
+192,Steelman and Fair Opposition,Low
+192,"Iterative, Collaborative Dialogue",High
+192,Bridge to Decisions and Commitments,Moderate
+192,Use Trusted Messengers,Low
+193,Person-Centered Alignment,Moderate
+193,Establish Shared Foundations,High
+193,Make It Concrete and Local,Low
+193,Explain Mechanisms and Analogies,Moderate
+193,Layered Evidence and Transparent Sourcing,Moderate
+193,Communicate Uncertainty and Trade-offs,Moderate
+193,Prebunking and Debunking,Low
+193,Steelman and Fair Opposition,Moderate
+193,"Iterative, Collaborative Dialogue",High
+193,Bridge to Decisions and Commitments,Low
+193,Use Trusted Messengers,Low
+194,Person-Centered Alignment,Moderate
+194,Establish Shared Foundations,High
+194,Make It Concrete and Local,Low
+194,Explain Mechanisms and Analogies,Moderate
+194,Layered Evidence and Transparent Sourcing,Moderate
+194,Communicate Uncertainty and Trade-offs,Moderate
+194,Prebunking and Debunking,Low
+194,Steelman and Fair Opposition,Low
+194,"Iterative, Collaborative Dialogue",High
+194,Bridge to Decisions and Commitments,Moderate
+194,Use Trusted Messengers,Low
+195,Person-Centered Alignment,High
+195,Establish Shared Foundations,Moderate
+195,Make It Concrete and Local,Moderate
+195,Explain Mechanisms and Analogies,Moderate
+195,Layered Evidence and Transparent Sourcing,Low
+195,Communicate Uncertainty and Trade-offs,High
+195,Prebunking and Debunking,Low
+195,Steelman and Fair Opposition,Low
+195,"Iterative, Collaborative Dialogue",High
+195,Bridge to Decisions and Commitments,Moderate
+195,Use Trusted Messengers,Low
+199,Person-Centered Alignment,Moderate
+199,Establish Shared Foundations,Moderate
+199,Make It Concrete and Local,High
+199,Explain Mechanisms and Analogies,Moderate
+199,Layered Evidence and Transparent Sourcing,Low
+199,Communicate Uncertainty and Trade-offs,Moderate
+199,Prebunking and Debunking,None
+199,Steelman and Fair Opposition,Low
+199,"Iterative, Collaborative Dialogue",High
+199,Bridge to Decisions and Commitments,Moderate
+199,Use Trusted Messengers,None
+200,Person-Centered Alignment,High
+200,Establish Shared Foundations,High
+200,Make It Concrete and Local,Moderate
+200,Explain Mechanisms and Analogies,Moderate
+200,Layered Evidence and Transparent Sourcing,Moderate
+200,Communicate Uncertainty and Trade-offs,Moderate
+200,Prebunking and Debunking,Moderate
+200,Steelman and Fair Opposition,Moderate
+200,"Iterative, Collaborative Dialogue",High
+200,Bridge to Decisions and Commitments,Low
+200,Use Trusted Messengers,Low
+201,Person-Centered Alignment,High
+201,Establish Shared Foundations,High
+201,Make It Concrete and Local,Moderate
+201,Explain Mechanisms and Analogies,High
+201,Layered Evidence and Transparent Sourcing,Moderate
+201,Communicate Uncertainty and Trade-offs,Moderate
+201,Prebunking and Debunking,Moderate
+201,Steelman and Fair Opposition,Moderate
+201,"Iterative, Collaborative Dialogue",High
+201,Bridge to Decisions and Commitments,Low
+201,Use Trusted Messengers,Low
+203,Person-Centered Alignment,Moderate
+203,Establish Shared Foundations,High
+203,Make It Concrete and Local,Low
+203,Explain Mechanisms and Analogies,Low
+203,Layered Evidence and Transparent Sourcing,Moderate
+203,Communicate Uncertainty and Trade-offs,Low
+203,Prebunking and Debunking,Low
+203,Steelman and Fair Opposition,Moderate
+203,"Iterative, Collaborative Dialogue",High
+203,Bridge to Decisions and Commitments,Moderate
+203,Use Trusted Messengers,Low
+204,Person-Centered Alignment,Moderate
+204,Establish Shared Foundations,High
+204,Make It Concrete and Local,Low
+204,Explain Mechanisms and Analogies,Low
+204,Layered Evidence and Transparent Sourcing,Moderate
+204,Communicate Uncertainty and Trade-offs,Low
+204,Prebunking and Debunking,Moderate
+204,Steelman and Fair Opposition,Low
+204,"Iterative, Collaborative Dialogue",High
+204,Bridge to Decisions and Commitments,Moderate
+204,Use Trusted Messengers,Low
+205,Person-Centered Alignment,High
+205,Establish Shared Foundations,Moderate
+205,Make It Concrete and Local,High
+205,Explain Mechanisms and Analogies,High
+205,Layered Evidence and Transparent Sourcing,Moderate
+205,Communicate Uncertainty and Trade-offs,Moderate
+205,Prebunking and Debunking,Low
+205,Steelman and Fair Opposition,Moderate
+205,"Iterative, Collaborative Dialogue",High
+205,Bridge to Decisions and Commitments,Low
+205,Use Trusted Messengers,Low
+206,Person-Centered Alignment,High
+206,Establish Shared Foundations,High
+206,Make It Concrete and Local,Low
+206,Explain Mechanisms and Analogies,Moderate
+206,Layered Evidence and Transparent Sourcing,Moderate
+206,Communicate Uncertainty and Trade-offs,Low
+206,Prebunking and Debunking,Low
+206,Steelman and Fair Opposition,Low
+206,"Iterative, Collaborative Dialogue",High
+206,Bridge to Decisions and Commitments,Moderate
+206,Use Trusted Messengers,Low
+207,Person-Centered Alignment,High
+207,Establish Shared Foundations,Low
+207,Make It Concrete and Local,Moderate
+207,Explain Mechanisms and Analogies,Low
+207,Layered Evidence and Transparent Sourcing,None
+207,Communicate Uncertainty and Trade-offs,Moderate
+207,Prebunking and Debunking,None
+207,Steelman and Fair Opposition,Low
+207,"Iterative, Collaborative Dialogue",High
+207,Bridge to Decisions and Commitments,Moderate
+207,Use Trusted Messengers,None
+208,Person-Centered Alignment,Moderate
+208,Establish Shared Foundations,Moderate
+208,Make It Concrete and Local,Low
+208,Explain Mechanisms and Analogies,Moderate
+208,Layered Evidence and Transparent Sourcing,Moderate
+208,Communicate Uncertainty and Trade-offs,Low
+208,Prebunking and Debunking,Low
+208,Steelman and Fair Opposition,Low
+208,"Iterative, Collaborative Dialogue",High
+208,Bridge to Decisions and Commitments,None
+208,Use Trusted Messengers,Low
+209,Person-Centered Alignment,High
+209,Establish Shared Foundations,Moderate
+209,Make It Concrete and Local,Moderate
+209,Explain Mechanisms and Analogies,Moderate
+209,Layered Evidence and Transparent Sourcing,High
+209,Communicate Uncertainty and Trade-offs,Moderate
+209,Prebunking and Debunking,Moderate
+209,Steelman and Fair Opposition,Moderate
+209,"Iterative, Collaborative Dialogue",High
+209,Bridge to Decisions and Commitments,Moderate
+209,Use Trusted Messengers,High
+210,Person-Centered Alignment,High
+210,Establish Shared Foundations,Moderate
+210,Make It Concrete and Local,Moderate
+210,Explain Mechanisms and Analogies,Moderate
+210,Layered Evidence and Transparent Sourcing,Moderate
+210,Communicate Uncertainty and Trade-offs,Low
+210,Prebunking and Debunking,Low
+210,"Iterative, Collaborative Dialogue",High
+210,Bridge to Decisions and Commitments,Moderate
+210,Use Trusted Messengers,Low
+211,Person-Centered Alignment,High
+211,Establish Shared Foundations,Low
+211,Make It Concrete and Local,Moderate
+211,Explain Mechanisms and Analogies,Low
+211,Layered Evidence and Transparent Sourcing,Low
+211,Communicate Uncertainty and Trade-offs,Low
+211,Prebunking and Debunking,None
+211,Steelman and Fair Opposition,Low
+211,"Iterative, Collaborative Dialogue",High
+211,Bridge to Decisions and Commitments,Moderate
+211,Use Trusted Messengers,None
+215,Person-Centered Alignment,Moderate
+215,Establish Shared Foundations,Moderate
+215,Make It Concrete and Local,Low
+215,Explain Mechanisms and Analogies,Moderate
+215,Layered Evidence and Transparent Sourcing,Low
+215,Communicate Uncertainty and Trade-offs,Low
+215,Prebunking and Debunking,None
+215,Steelman and Fair Opposition,Low
+215,"Iterative, Collaborative Dialogue",High
+215,Bridge to Decisions and Commitments,Moderate
+215,Use Trusted Messengers,Low
+216,Person-Centered Alignment,High
+216,Establish Shared Foundations,Moderate
+216,Make It Concrete and Local,Moderate
+216,Explain Mechanisms and Analogies,Moderate
+216,Layered Evidence and Transparent Sourcing,Moderate
+216,Communicate Uncertainty and Trade-offs,High
+216,Prebunking and Debunking,Moderate
+216,Steelman and Fair Opposition,Moderate
+216,"Iterative, Collaborative Dialogue",High
+216,Bridge to Decisions and Commitments,Low
+216,Use Trusted Messengers,Low
+218,Person-Centered Alignment,High
+218,Establish Shared Foundations,Moderate
+218,Make It Concrete and Local,Moderate
+218,Explain Mechanisms and Analogies,Moderate
+218,Layered Evidence and Transparent Sourcing,Moderate
+218,Communicate Uncertainty and Trade-offs,Low
+218,Prebunking and Debunking,Low
+218,Steelman and Fair Opposition,Low
+218,"Iterative, Collaborative Dialogue",High
+218,Bridge to Decisions and Commitments,Moderate
+218,Use Trusted Messengers,Low
+220,Person-Centered Alignment,Moderate
+220,Establish Shared Foundations,Moderate
+220,Make It Concrete and Local,Low
+220,Explain Mechanisms and Analogies,Low
+220,Layered Evidence and Transparent Sourcing,Moderate
+220,Communicate Uncertainty and Trade-offs,Low
+220,Prebunking and Debunking,Low
+220,Steelman and Fair Opposition,Low
+220,"Iterative, Collaborative Dialogue",Moderate
+220,Bridge to Decisions and Commitments,High
+220,Use Trusted Messengers,Low
