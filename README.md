@@ -2,9 +2,7 @@
 
 Exploratory analyses supplementing the paper:
 
-> *Conversational AI shifts beliefs and policy support across
-> contested domains, with strongest effects among skeptics and those trusting
-> science.* Kotz, J. et al. 
+> *Conversational AI shifts beliefs and policy support among skeptics across contested societal issues* Kotz et al. (2026)
 
 Two analysis tracks: (1) eliciting persuasion strategies from GPT-5 and
 classifying how strongly each appears in every AI–participant conversation, and
